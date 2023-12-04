@@ -2,6 +2,9 @@
 
 Welcome to the Typing Speed Test project! This web application is designed to help users improve their typing speed and accuracy. The project is built using a combination of HTML, CSS, and JavaScript, providing a responsive and interactive typing experience.
 
+## Check the project Live here.
+Project Link - https://tarunchoudhary3884.github.io/TypingSpeedTest/
+
 ## Key Features
 
 - Real-time WPM (Words Per Minute) calculation to measure typing speed.
@@ -15,7 +18,7 @@ The text for the typing test is generated through the [Quotable API](https://git
 
 ## How to Use
 
-1. Clone the repository to your local machine.
+1. Visit the live demo [here](https://tarunchoudhary3884.github.io/TypingSpeedTest/) or clone the repository to your local machine.
 2. Open the `index.html` file in your web browser.
 3. Start typing the displayed sentences, and the application will calculate your WPM.
 
