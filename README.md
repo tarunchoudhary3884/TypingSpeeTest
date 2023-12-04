@@ -22,4 +22,8 @@ The text for the typing test is generated through the [Quotable API](https://git
 ## Demo
 Happy typing!
 
-https://github.com/tarunchoudhary3884/TypingSpeedTest/blob/main/video/Typing%20Speed%20Test.mp4
+
+
+
+https://github.com/tarunchoudhary3884/TypingSpeedTest/assets/85241851/88f8b0ee-f356-44d0-ba73-d1b8ad637805
+
